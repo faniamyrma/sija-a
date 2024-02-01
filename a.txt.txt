@@ -1,0 +1,8 @@
+menghubungkan lokal ke github
+git init . 
+git remote add origin https://github.com/faniamyrma/sija-a.git
+git branch -M main
+git add .
+git config --global user.email "faniamyrma@gmail.com" 
+git config --global user.name "faniamyrma"   
+git commit -m "first commit" 
